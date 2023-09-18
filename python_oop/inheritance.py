@@ -1,4 +1,4 @@
-# 4
+# 9
 # Inheritance:
 # Create a base class called "Vehicle" that has properties like speed and color.
 # Then create two subclasses named "Car" and "Bicycle" that inherit from the main class and add your own properties and methods.

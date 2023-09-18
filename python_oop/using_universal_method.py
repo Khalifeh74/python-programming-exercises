@@ -1,4 +1,4 @@
-# 5
+# 10
 # Using the public method:
 # Create a class called "Rectangle" that has length and width properties.
 # Then define a method called "calculate_area" that calculates the area of the rectangle and use it in different objects.

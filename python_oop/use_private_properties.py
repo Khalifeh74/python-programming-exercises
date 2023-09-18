@@ -1,4 +1,4 @@
-# 3
+# 8
 # Using private properties:
 # Create a class called "Employee" that has the name and employee number attributes as private.
 # Then create a method to display employee information and use private properties securely.

@@ -1,4 +1,4 @@
-# 2
+# 7
 # Using protected properties:
 # Create a class called "BankAccount" that has protected properties for the account balance.
 # Then define methods for depositing and withdrawing funds.

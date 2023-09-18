@@ -1,4 +1,4 @@
-# 1
+# 6
 # Simple data structure:
 # Create a class called "Student" that has attributes name and grade
 # and create a method called "display_info" to display the student's information.
